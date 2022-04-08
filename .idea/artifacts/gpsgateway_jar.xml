@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="gpsgateway:jar">
+    <output-path>$PROJECT_DIR$/../../../../../../temp</output-path>
+    <root id="archive" name="gpsgateway.jar">
+      <element id="module-output" name="gpsgateway" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/org.json/chargebee-1.0/org.json-chargebee-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.19.3/protobuf-java-3.19.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.2.5/org.eclipse.paho.client.mqttv3-1.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.27/mysql-connector-java-8.0.27.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
