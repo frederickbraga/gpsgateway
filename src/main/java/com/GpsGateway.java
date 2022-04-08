@@ -26,7 +26,7 @@ public class GpsGateway {
     /**
      * Host e porta do servidor MQTT. Será fornecido pela Cittati.
      */
-    private static final String URL = "ssl://mqtt.cittati.com.br:5883";
+    private static final String URL = "ssl://mqtt.fornecedor.com.br:5883";
 
     /**
      * Identificador <b>único</b> para um cliente MQTT perante o servidor.
